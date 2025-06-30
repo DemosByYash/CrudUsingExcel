@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mxd66bbijlY=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Console Apps\\CrudUsingExcel\\CrudUsingExcel\\CrudUsingExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ygoff\\.nuget\\packages\\system.data.odbc\\9.0.6\\system.data.odbc.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
