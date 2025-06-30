@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudUsingExcel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+354e392deb82d3cc34bf15b34862a00b0201308e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudUsingExcel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudUsingExcel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
