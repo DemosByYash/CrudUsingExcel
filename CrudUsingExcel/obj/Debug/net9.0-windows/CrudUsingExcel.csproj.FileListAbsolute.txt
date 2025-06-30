@@ -19,3 +19,4 @@ D:\C#\Console Apps\CrudUsingExcel\CrudUsingExcel\obj\Debug\net9.0-windows\refint
 D:\C#\Console Apps\CrudUsingExcel\CrudUsingExcel\obj\Debug\net9.0-windows\CrudUsingExcel.pdb
 D:\C#\Console Apps\CrudUsingExcel\CrudUsingExcel\obj\Debug\net9.0-windows\CrudUsingExcel.genruntimeconfig.cache
 D:\C#\Console Apps\CrudUsingExcel\CrudUsingExcel\obj\Debug\net9.0-windows\ref\CrudUsingExcel.dll
+D:\C#\Console Apps\CrudUsingExcel\CrudUsingExcel\obj\Debug\net9.0-windows\CrudUsingExcel.Properties.Resources.resources
